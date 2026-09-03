@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.Tiktok.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -39,5 +42,3 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo de software y co
 🗄️ Bases de datos
 🔧 Git & GitHub
 🚀 Aprendizaje continuo
-
-<img src="https://ghstats.dev/api/card?username=JeanParedesDev&theme=tokyonight" alt="GitHub Stats Card" />
