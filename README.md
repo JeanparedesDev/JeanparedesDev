@@ -39,3 +39,5 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo de software y co
 🗄️ Bases de datos
 🔧 Git & GitHub
 🚀 Aprendizaje continuo
+
+<img src="https://ghstats.dev/api/card?username=JeanParedesDev&theme=tokyonight" alt="GitHub Stats Card" />
